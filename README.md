@@ -1,2 +1,2 @@
 # OpenPKI
-OpenPKI - An Open Source Private Key Infrastructure Project for Linux/Windows/macOS
+OpenPKI - An Open Source Public Key Infrastructure (PKI) Project for Linux/Windows/macOS
